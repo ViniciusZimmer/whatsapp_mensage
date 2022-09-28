@@ -27,10 +27,4 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
-
-//    gif usando glive
-//    https://www.youtube.com/watch?v=6ZQYQZ1Z1qM
-
-
-
 }
